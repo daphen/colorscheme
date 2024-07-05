@@ -41,7 +41,7 @@ local variants = {
 	main = {
 		_nc = "#16141f",
 		base = "#0f0f0f",
-		surface = "#1f1d2e",
+		surface = "#0f0f0f",
 		overlay = "#26233a",
 		muted = "#a7a7a7",
 		subtle = "#DDDDED",
@@ -53,7 +53,7 @@ local variants = {
 		foam = "#a7a7a7",
 		iris = "#ffffff",
 		highlight_low = "#21202e",
-		highlight_med = "#403d52",
+		highlight_med = "#1F1D2E",
 		highlight_high = "#524f67",
 		none = "NONE",
 	},
