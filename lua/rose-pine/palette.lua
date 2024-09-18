@@ -21,7 +21,7 @@ local variants = {
 	-- },
 	main = {
 		_nc = "#16141f",
-		base = "##161616",
+		base = "#161616",
 		surface = "#1f1d2e",
 		overlay = "#26233a",
 		muted = "#6e6a86",
