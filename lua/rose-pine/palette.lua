@@ -22,7 +22,7 @@ local variants = {
 	-- very nice below
 	main = {
 		_nc = "#16141f",
-		base = "#161616",
+		base = "#101010",
 		surface = "#161616",
 		overlay = "#2d2b35",
 		muted = "#FFFFFF",
