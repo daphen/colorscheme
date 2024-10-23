@@ -50,8 +50,8 @@ local variants = {
 
 	main = {
 		_nc = "#16141f",
-		base = "#0D0D0D",
-		surface = "#0D0D0D",
+		base = "#262626",
+		surface = "#262626",
 		overlay = "#2d2b35",
 		muted = "#FFFFFF",
 		subtle = "#B5B9C2",
@@ -59,14 +59,15 @@ local variants = {
 		love = "#D09D8A",
 		gold = "#D6B9A9",
 		rose = "#D9AE93",
-		pine = "#1F3942",
-		foam = "#57737D",
+		pine = "#fe5775",
+		foam = "#7FA8A0",
 		iris = "#CE9079",
 		highlight_low = "#21202e",
 		highlight_med = "#403d52",
 		highlight_high = "#524f67",
 		none = "NONE",
 	},
+
 	--GOLD STANDARD!!
 	-- main = {
 	-- 	_nc = "#16141f",
