@@ -19,6 +19,35 @@ local variants = {
 	-- 	highlight_high = "#524f67",
 	-- 	none = "NONE",
 	-- },
+	--
+	-- #8FB28C	#90C3C8
+	-- #6A8F77	#83BACD
+	-- #77A482	#8CB6C1
+	-- #94B49F	#A7D3DF
+	-- #738B71	#5F9CA6
+	-- #86B593	#91CADC
+	--
+	-- 	1.	Pine: #7FA8A0 and Foam: #8FB8B0
+	-- ▪	A slightly lighter foam with a hint of blue.
+	-- 2.	Pine: #7FA8A0 and Foam: #8AB0A8
+	-- ▪	A balanced mix of green and blue.
+	-- 3.	Pine: #7FA8A0 and Foam: #95C2B5
+	-- ▪	A bit more brightness in the foam.
+	-- 4.	Pine: #7FA8A0 and Foam: #84B0A5
+	-- ▪	A subtle shift towards green.
+	-- 5.	Pine: #7FA8A0 and Foam: #88B8AC
+	-- ▪	A harmonious blend with a touch of teal.
+	-- 6.	Pine: #7FA8A0 and Foam: #92C0B8
+	-- ▪	A brighter foam with a blue-green balance.
+	-- 7.	Pine: #7FA8A0 and Foam: #86B2A8
+	-- ▪	Slightly muted for a softer look.
+	-- 8.	Pine: #7FA8A0 and Foam: #8CBEB0
+	-- ▪	A gentle green hue with a cohesive feel.
+	-- 9.	Pine: #7FA8A0 and Foam: #8FBFB5
+	-- ▪	A fresh, light look with a hint of green.
+	-- 10.	Pine: #7FA8A0 and Foam: #89B5A9
+	-- ▪	A subtle difference with a cohesive tone.
+
 	main = {
 		_nc = "#16141f",
 		base = "#161616",
@@ -30,7 +59,7 @@ local variants = {
 		love = "#D09D8A",
 		gold = "#D6B9A9",
 		rose = "#D9AE93",
-		pine = "#7FA8A0",
+		pine = "#89B5A9",
 		foam = "#90C0B0",
 		iris = "#CE9079",
 		highlight_low = "#21202e",
